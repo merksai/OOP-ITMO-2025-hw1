@@ -1,0 +1,14 @@
+/Users/merksai/Desktop/oop/hw1/vending machine/bin/Debug/net9.0/vending machine
+/Users/merksai/Desktop/oop/hw1/vending machine/bin/Debug/net9.0/vending machine.deps.json
+/Users/merksai/Desktop/oop/hw1/vending machine/bin/Debug/net9.0/vending machine.runtimeconfig.json
+/Users/merksai/Desktop/oop/hw1/vending machine/bin/Debug/net9.0/vending machine.dll
+/Users/merksai/Desktop/oop/hw1/vending machine/bin/Debug/net9.0/vending machine.pdb
+/Users/merksai/Desktop/oop/hw1/vending machine/obj/Debug/net9.0/vending machine.GeneratedMSBuildEditorConfig.editorconfig
+/Users/merksai/Desktop/oop/hw1/vending machine/obj/Debug/net9.0/vending machine.AssemblyInfoInputs.cache
+/Users/merksai/Desktop/oop/hw1/vending machine/obj/Debug/net9.0/vending machine.AssemblyInfo.cs
+/Users/merksai/Desktop/oop/hw1/vending machine/obj/Debug/net9.0/vending machine.csproj.CoreCompileInputs.cache
+/Users/merksai/Desktop/oop/hw1/vending machine/obj/Debug/net9.0/vending machine.dll
+/Users/merksai/Desktop/oop/hw1/vending machine/obj/Debug/net9.0/refint/vending machine.dll
+/Users/merksai/Desktop/oop/hw1/vending machine/obj/Debug/net9.0/vending machine.pdb
+/Users/merksai/Desktop/oop/hw1/vending machine/obj/Debug/net9.0/vending machine.genruntimeconfig.cache
+/Users/merksai/Desktop/oop/hw1/vending machine/obj/Debug/net9.0/ref/vending machine.dll
